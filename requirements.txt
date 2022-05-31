@@ -1,4 +1,4 @@
-python==3.8.4
+python==3.8.0
 numpy
 Keras==2.4.3
 streamlit==0.81.0
