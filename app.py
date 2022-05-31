@@ -2,9 +2,10 @@
 import numpy as np
 import cv2
 import streamlit as st
-from tensorflow import keras
-from keras.models import load_model
-from keras.preprocessing.image import img_to_array
+import tensorflow as tf
+from tf import keras
+from tf.keras.models import load_model
+from tf.keras.preprocessing.image import img_to_array
 from streamlit_webrtc import webrtc_streamer, VideoTransformerBase
 
 # load model
