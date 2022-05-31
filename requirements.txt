@@ -1,5 +1,6 @@
 
 numpy
+pyarrow
 Keras==2.4.3
 streamlit==0.81.0
 opencv-python-headless
